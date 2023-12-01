@@ -1,0 +1,8 @@
+C:\Users\Acer\Desktop\Fazylov_rab1_z9\Fazylov_rab1_z9\bin\Debug\Fazylov_rab1_z9.exe.config
+C:\Users\Acer\Desktop\Fazylov_rab1_z9\Fazylov_rab1_z9\bin\Debug\Fazylov_rab1_z9.exe
+C:\Users\Acer\Desktop\Fazylov_rab1_z9\Fazylov_rab1_z9\bin\Debug\Fazylov_rab1_z9.pdb
+C:\Users\Acer\Desktop\Fazylov_rab1_z9\Fazylov_rab1_z9\obj\Debug\Fazylov_rab1_z9.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Fazylov_rab1_z9\Fazylov_rab1_z9\obj\Debug\Fazylov_rab1_z9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Fazylov_rab1_z9\Fazylov_rab1_z9\obj\Debug\Fazylov_rab1_z9.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fazylov_rab1_z9\Fazylov_rab1_z9\obj\Debug\Fazylov_rab1_z9.exe
+C:\Users\Acer\Desktop\Fazylov_rab1_z9\Fazylov_rab1_z9\obj\Debug\Fazylov_rab1_z9.pdb
